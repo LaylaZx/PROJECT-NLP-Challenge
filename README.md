@@ -12,7 +12,7 @@
 
 
 ## The link of the deployed Logestic Regression Model:
-
+https://insyjix9kxiis3wihih6zg.streamlit.app/
 
 ## The wieghts of the Kim-CNN Model:
 
